@@ -1,0 +1,35 @@
+//Arjun C. Araneta
+//(VB.Net Tutorial) Learn how to Program – Counting Odd and Even Numbers
+
+//https://morecodes.wordpress.com/
+
+/*
+Write a program to count the number of even and odd numbers 
+from a series of numbers from five(5) number inputs of the user.
+*/
+
+Module Module1
+
+    Sub Main()
+        Dim numInput As Integer = 0, evenCount As Integer = 0, oddCount As Integer = 0
+
+        For i As Integer = 0 To 4
+
+            Console.Write("Enter a number: ")
+            numInput = Console.ReadLine
+
+            If numInput Mod 2 = 0 Then
+                evenCount = evenCount + 1
+            Else
+                oddCount = oddCount + 1
+            End If
+
+        Next
+
+        Console.WriteLine("There are " & evenCount & " even numbers.")
+        Console.WriteLine("There are " & oddCount & " odd numbers.")
+
+        Console.Read()
+    End Sub
+
+End Module
