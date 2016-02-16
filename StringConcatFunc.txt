@@ -1,0 +1,17 @@
+//Arjun C. Araneta
+// Write a program that accepts two String parameters then concatenate them, then print it out.
+
+Module Module1
+
+    Private Sub PrintStrings(ByVal strWord1 As String, ByVal strWord2 As String)
+        Dim strNewWord As String = strWord1 & " " & strWord2
+        Console.WriteLine(strNewWord)
+    End Sub
+
+    Sub Main()
+        PrintStrings("Hello", "World")
+
+        Console.Read()
+    End Sub
+
+End Module
