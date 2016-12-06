@@ -1,0 +1,15 @@
+'Problem: Write a program that checks if the string contains all digits using Regular Expression.
+
+Imports System.Text.RegularExpressions
+
+Module Module1
+
+    Sub Main()
+        Dim regex As Regex = New Regex("\d+")
+        Dim value As String = "12345"
+
+        Console.Write(regex.IsMatch(value))
+        Console.ReadKey()
+    End Sub
+
+End Module
