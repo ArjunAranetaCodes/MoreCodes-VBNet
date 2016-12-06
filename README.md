@@ -1,2 +1,2 @@
 # MoreCodes-VBNet
-This repository is for vbnet codes of my blog: https://morecodes.wordpress.com/
+This repository is for Visual Basic codes of my blog: https://more-codes.com/
