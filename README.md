@@ -11,7 +11,7 @@ This repository is for Visual Basic codes of my blog: https://more-codes.com/
 8. Condition (Switch )
 9. Function/Method
 10. Array/List
-
+- - - -
 [Easy Problems](Problems/) <- Click to go to Easy Problems
 
 1. Write a program that accepts two numbers and find the sum.
