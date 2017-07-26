@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 8: Write a program that outputs all numbers divisible by
+ '5 from 1 to 30.
+
 Sub Main()
  Dim sum As Integer
 

@@ -1,4 +1,5 @@
 Module Module1
+ 'Variables and Input
  Sub Main()
   Dim name As String
   Dim sex As Char

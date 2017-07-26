@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 1: Write a program that accepts
+ 'two numbers and find the sum.
+
  Sub Main()
   Dim num1 As Integer = 0
   Dim num2 As Integer = 0

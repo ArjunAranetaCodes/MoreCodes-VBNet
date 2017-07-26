@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 18: Write a program that outputs the frequency of a
+ 'letter in a string.
+
  Sub Main()
   Dim strVowels As String = "a"
   Dim letterCount As Integer = 0

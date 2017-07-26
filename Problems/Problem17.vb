@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Write a program that outputs the index of the first
+ 'occurrence of the letter in a string.
+
  Sub Main()
   Dim word As String = "program"
   Dim letter As String = "a"

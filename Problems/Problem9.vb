@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 9: Write a program that accepts a number
+ 'and outputs 1 to the input (1 to n).
+
 Sub Main()
  Dim num As Integer = 0
  Dim sum As Integer = 0

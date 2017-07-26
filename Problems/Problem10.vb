@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 10: Write a program that accepts three numbers
+ 'and outputs their average.
+
  Sub Main()
   Dim num1 As Integer = 0
   Dim num2 As Integer = 0
@@ -13,7 +16,7 @@ Module Module1
   num2 = Int32.Parse(Console.ReadLine())
   Console.Write("Enter value of num3: ")
   num3 = Int32.Parse(Console.ReadLine())
-  ave = (num1 + num2 + num3) / 3 
+  ave = (num1 + num2 + num3) / 3
 
   Console.WriteLine("Average is " & ave)
 

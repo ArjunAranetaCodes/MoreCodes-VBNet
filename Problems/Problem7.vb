@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 7: Write a program that finds the sum of all
+ 'numbers from 1 to 20.
+
  Sub Main()
   Dim sum As Integer
 

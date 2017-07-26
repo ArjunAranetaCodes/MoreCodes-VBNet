@@ -1,8 +1,6 @@
-<pre><code>
 Module Module1
 
- 'Problem 19: Write a program that counts the total number
- 'of vowels in a string.
+ 'Problem 8: Write a program that counts vowels in a string.
 
  Sub Main()
   Dim strVowels As String = "aeiou"
@@ -11,7 +9,7 @@ Module Module1
 
   For i As Integer = 0 To Len(word) - 1
    If strVowels.Contains(word.Substring(i, 1)) Then
-   vowelCount = vowelCount + 1
+    vowelCount = vowelCount + 1
    End If
   Next
   Console.WriteLine("Total Vowels: " & vowelCount)
@@ -19,5 +17,3 @@ Module Module1
  End Sub
 
 End Module
-
-</code></pre>

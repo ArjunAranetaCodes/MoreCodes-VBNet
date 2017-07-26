@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 12: Write a program that asks a user for their
+ 'name and outputs a greeting with their name.
+
  Sub Main()
   Dim name As String
 

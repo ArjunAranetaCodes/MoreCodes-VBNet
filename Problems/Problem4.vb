@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 4:Write a program that accepts radius of a circle and
+ 'find its diameter, circumference, and area.
+
  Sub Main()
   Dim radius As Integer = 0
   Dim PI As Double = 3.14

@@ -1,5 +1,5 @@
 Module Module1
-
+ 'Switch Statement'
  Sub Main()
   Dim num1 As Integer = 10
 

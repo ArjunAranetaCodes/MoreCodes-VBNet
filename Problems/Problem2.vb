@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 2: Write a program that accepts two numbers
+ 'and perform all arithmetic operations.
+
 Sub Main()
  Dim num1 As Integer = 0
  Dim num2 As Integer = 0

@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 5: Write a program that accepts that accepts temperature in
+ 'Celcius and convert it to Farenheit.
+
  Sub Main()
   Dim celsius As Double = 0.0
   Dim farenheit As Double = 0.0

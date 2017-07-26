@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 6: Write a program that checks a number
+ 'input is even or odd.
+
  Sub Main()
   Dim num As Integer = 0
   Console.Write("Enter value of num: ")

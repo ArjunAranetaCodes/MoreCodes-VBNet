@@ -1,6 +1,9 @@
 <pre><code>
 Module Module1
 
+ 'Problem 3: Write a program that accepts length and
+ 'width of rectangle to find area.
+
  Sub Main()
   Dim length As Integer = 0
   Dim width As Integer = 0
