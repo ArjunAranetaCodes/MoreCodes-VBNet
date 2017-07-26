@@ -2,7 +2,7 @@ Module Module1
 
  'Problem 14: Write a program that accepts 5 numbers
  'and outputs the average.
- 
+
  Sub Main()
   Dim num As Integer = 0
   Dim sum As Integer = 0

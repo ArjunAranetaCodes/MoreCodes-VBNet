@@ -1,6 +1,6 @@
 Module Module1
 
- 'Proble 6: Write a program that outputs all odd numbers
+ 'Problem 6: Write a program that outputs all odd numbers
  'below 20.
 
  Sub Main()

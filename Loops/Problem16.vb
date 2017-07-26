@@ -1,7 +1,7 @@
 Module Module1
 
  'Problem 16: Write a program that outputs the factorial
- of a number.
+ 'of a number.
 
  Sub Main()
   Dim num As Integer = 5
