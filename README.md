@@ -11,8 +11,9 @@ This repository is for Visual Basic codes of my blog: https://more-codes.com/
 8. Condition (Switch )
 9. Function/Method
 10. Array/List
+
 - - - -
-[Easy Problems](Problems/) <- Click to go to Easy Problems
+### [Easy Problems](Problems/) <- Click to go to Easy Problems
 
 1. Write a program that accepts two numbers and find the sum.
 2. Write a program that accepts two numbers and perform all arithmetic operations.
@@ -37,8 +38,8 @@ This repository is for Visual Basic codes of my blog: https://more-codes.com/
 19. Write a program that counts the total number of vowels in a string.
 20. Write a program that checks if a string is a palindrome.
 
-
-[Loops Problems](Loops/) <- Click to go to Loop Problems
+- - - -
+### [Loops Problems](Loops/) <- Click to go to Loop Problems
 
 1. Write a program that prints the numbers from 1 to 50.
    Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and
