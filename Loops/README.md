@@ -2,7 +2,7 @@
 This repository is for Visual Basic codes of my blog: https://more-codes.com/
 
 - - - -
-### [Loops Problems](Loops/) <- Click to go to Loop Problems
+### Loops Problems
 
 1. Write a program that prints the numbers from 1 to 50.
    Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and

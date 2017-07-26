@@ -2,7 +2,7 @@
 This repository is for Visual Basic codes of my blog: https://more-codes.com/
 
 - - - -
-### [Easy Problems](Problems/) <- Click to go to Easy Problems
+### Easy Problems
 
 1. Write a program that accepts two numbers and find the sum.
 2. Write a program that accepts two numbers and perform all arithmetic operations.
