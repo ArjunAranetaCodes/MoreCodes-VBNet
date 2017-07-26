@@ -12,7 +12,8 @@ This repository is for Visual Basic codes of my blog: https://more-codes.com/
 9. Function/Method
 10. Array/List
 
-[Loops Problems](Problems/)
+[Loops Problems](Problems/) <- Click to go to Loops Problems
+
 1. Write a program that accepts two numbers and find the sum.
 2. Write a program that accepts two numbers and perform all arithmetic operations.
 3. Write a program that accepts length and width of rectangle to find area.
