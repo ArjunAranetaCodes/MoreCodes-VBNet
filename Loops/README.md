@@ -1,8 +1,8 @@
-# MoreCodes-VBNet
-This repository is for Visual Basic codes of my blog: https://more-codes.com/
+# MoreCodes - Visual Basic Programming Problems
+This repository is for Visual Basic codes of my blog: http://more-codes.com/
 
 - - - -
-### Loops Problems
+### Visual Basic Programming Loops Problems
 
 1. Write a program that prints the numbers from 1 to 50.
    Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and

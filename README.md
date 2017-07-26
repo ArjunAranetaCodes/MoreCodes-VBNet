@@ -1,5 +1,5 @@
 # MoreCodes-VBNet Programming Problems
-This repository is for Visual Basic codes of my blog: https://more-codes.com/
+This repository is for Visual Basic codes of my blog: http://more-codes.com/
 
 1. Basic Output
 2. Variables
@@ -13,7 +13,7 @@ This repository is for Visual Basic codes of my blog: https://more-codes.com/
 10. Array/List
 
 - - - -
-### [Easy Problems](Problems/) <- Click to go to Easy Problems
+### [Visual Basic Programming Easy Problems](Problems/) <- Click to go to Easy Problems
 
 1. Write a program that accepts two numbers and find the sum.
 2. Write a program that accepts two numbers and perform all arithmetic operations.
@@ -39,7 +39,7 @@ This repository is for Visual Basic codes of my blog: https://more-codes.com/
 20. Write a program that checks if a string is a palindrome.
 
 - - - -
-### [Loops Problems](Loops/) <- Click to go to Loop Problems
+### [Visual Basic Programming Loops Problems](Loops/) <- Click to go to Loop Problems
 
 1. Write a program that prints the numbers from 1 to 50.
    Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and
