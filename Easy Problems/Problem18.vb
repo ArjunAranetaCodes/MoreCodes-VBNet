@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 18: Write a program that outputs the frequency of a
@@ -19,5 +18,3 @@ Module Module1
  End Sub
 
 End Module
-
-</code></pre>

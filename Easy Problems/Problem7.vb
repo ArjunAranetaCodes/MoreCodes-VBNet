@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 7: Write a program that finds the sum of all
@@ -16,5 +15,3 @@ Module Module1
  End Sub
 
 End Module
-
-</code></pre>

@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 20: Write a program that checks if a string is a
@@ -17,5 +16,3 @@ Module Module1
  End Sub
 
 End Module
-
-</code></pre>

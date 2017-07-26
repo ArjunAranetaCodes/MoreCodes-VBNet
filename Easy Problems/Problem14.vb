@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 14: Write a program that replaces all letter
@@ -12,5 +11,3 @@ Module Module1
  End Sub
 
 End Module
-
-</code></pre>

@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 5: Write a program that accepts that accepts temperature in
@@ -16,5 +15,3 @@ Module Module1
  End Sub
 
 End Module
-
-</code></pre>

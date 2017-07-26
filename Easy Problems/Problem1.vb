@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 1: Write a program that accepts
@@ -18,5 +17,3 @@ Module Module1
  End Sub
 
 End Module
-
-</code></pre>

@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 8: Write a program that outputs all numbers divisible by
@@ -19,5 +18,3 @@ Sub Main()
 End Sub
 
 End Module
-
-</code></pre>

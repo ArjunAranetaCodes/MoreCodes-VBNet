@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 6: Write a program that checks a number
@@ -19,5 +18,3 @@ Module Module1
  End Sub
 
 End Module
-
-</code></pre>

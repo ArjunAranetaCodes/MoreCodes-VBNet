@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 10: Write a program that accepts three numbers
@@ -24,5 +23,3 @@ Module Module1
  End Sub
 
 End Module
-
-</code></pre>

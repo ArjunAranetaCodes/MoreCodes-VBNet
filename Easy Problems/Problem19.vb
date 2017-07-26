@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 19: Write a program that counts the total number
@@ -19,5 +18,3 @@ Module Module1
  End Sub
 
 End Module
-
-</code></pre>

@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 4:Write a program that accepts radius of a circle and
@@ -25,5 +24,3 @@ Module Module1
  End Sub
 
 End Module
-
-</code></pre>

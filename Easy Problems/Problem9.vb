@@ -1,4 +1,3 @@
-<pre><code>
 Module Module1
 
  'Problem 9: Write a program that accepts a number
@@ -20,5 +19,3 @@ Sub Main()
 End Sub
 
 End Module
-
-</code></pre>
