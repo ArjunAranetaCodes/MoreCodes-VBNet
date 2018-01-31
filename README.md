@@ -1,16 +1,29 @@
-# MoreCodes-VBNet Programming Problems
-This repository is for Visual Basic codes of my blog: http://more-codes.com/
+<h1 align="center">MoreCodes</h1>
+<p align="center"> 
+  <img src="/morecodescir.png"/>
+</p>
 
-1. Basic Output
-2. Variables
-3. Basic Input
-4. Comment
-5. Arithmetic Operation
-6. Loops
-7. Condition (If/Else)
-8. Condition (Switch )
-9. Function/Method
-10. Array/List
+<p align="center">
+Join Us on Youtube! <br/>
+<i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A/featured</u></i>
+</p>
+
+#
+
+# MoreCodes- Visual Basic Programming Problems
+Computer Programming Problems and Solutions with the Visual Basic Language
+
+1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics1.vb" target="_blank">Basic Output</a>
+2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics2.vb" target="_blank">Variables</a>
+3. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics3.vb" target="_blank">Basic Input</a>
+4. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics4.vb" target="_blank">Comment</a>
+5. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics5.vb" target="_blank">Arithmetic Operation</a>
+6. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics6.vb" target="_blank">Loops</a>
+7. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics7.vb" target="_blank">Condition (If/Else)</a>
+8. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics8.vb" target="_blank">Condition (Switch )</a>
+9. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics9.vb" target="_blank">Function/Method</a>
+10. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics10.vb" target="_blank">Array/List</a>
+
 
 - - - -
 ### [Visual Basic Programming Easy Problems](Problems/) <- Click to go to Easy Problems
