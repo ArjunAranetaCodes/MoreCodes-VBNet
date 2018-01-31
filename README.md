@@ -51,7 +51,6 @@ Computer Programming problems and Solutions with the Visual Basic Language
 
 - - - -
 ### [Visual Basic Programming Loops problems](Loops/) <- Click to go to Loop problems
-
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Loops/problem1.vb" target="_blank">Write a program that prints the numbers from 1 to 50. Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and bot "FizzBuzz" for multiples of both 3 and 5.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Loops/problem2.vb" target="_blank">Write a program that outputs 5 random integers.</a>
 3. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Loops/problem3.vb" target="_blank">Write a program that count letters in a string using a loop.</a>
