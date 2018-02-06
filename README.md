@@ -24,9 +24,8 @@ Computer Programming problems and Solutions with the Visual Basic Language
 9. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics9.vb" target="_blank">Function/Method</a>
 10. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics10.vb" target="_blank">Array/List</a>
 
-
 - - - -
-### [Visual Basic Programming Easy problems](problems/) <- Click to go to Easy problems
+### [Visual Basic Programming Easy problems](Easy%20Problems/) <- Click to go to Easy problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Easy%20Problems/Problem1.vb" target="_blank">Write a program that accepts two numbers and find the sum.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Easy%20Problems/Problem2.vb" target="_blank">Write a program that accepts two numbers and perform all arithmetic operations.</a>
